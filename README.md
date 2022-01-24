@@ -1,3 +1,4 @@
+Algo practice from:
 https://techinterviewhandbook.org/best-practice-questions/#week-1---sequences
 
-Solutions for this to practice algos
+1. Two sum -> https://leetcode.com/problems/two-sum/
