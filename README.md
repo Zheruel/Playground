@@ -3,7 +3,7 @@ https://techinterviewhandbook.org/best-practice-questions/#week-1---sequences
 
 1. Two sum -> https://leetcode.com/problems/two-sum/
 
-Hash Map
+Hash map
 Time complexity: O(n)
 Space complexity: O(n)
 
@@ -24,3 +24,9 @@ Time complexity: O(n)
 Space complexity: O(1)
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/1716892/python3-solution-with-two-pointers
+
+4. Valid Anagram -> https://leetcode.com/problems/valid-anagram/
+
+Hash map
+Time complexity: O(n)
+Space complexity: O(n)
