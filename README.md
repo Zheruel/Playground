@@ -15,12 +15,12 @@ https://leetcode.com/problems/contains-duplicate/discuss/1716829/python3-solutio
 
 3. Best Time to Buy and Sell Stock -> https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-Two pointers, Time complexity: O(n) ,Space complexity: O(1)
+Two pointers, Time complexity: O(n), Space complexity: O(1)
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/1716892/python3-solution-with-two-pointers
 
 4. Valid Anagram -> https://leetcode.com/problems/valid-anagram/
 
-Hash map, Time complexity: O(n) ,Space complexity: O(n)
+Hash map, Time complexity: O(n), Space complexity: O(n)
 
 https://leetcode.com/problems/valid-anagram/discuss/1716986/python-3-hash-map-solution
