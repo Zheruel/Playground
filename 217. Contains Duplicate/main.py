@@ -1,7 +1,5 @@
 from typing import List
 
-# This should be O(n) because hashmap
-
 
 def containsDuplicate(nums: List[int]) -> bool:
     result_dict = {}
