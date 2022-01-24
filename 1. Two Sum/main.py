@@ -1,7 +1,7 @@
 from typing import List
 
 
-def twoSum(nums: List[int], target):
+def twoSum(nums: List[int], target: int) -> List[int]:
     hash_map = {nums[i]: i for i in range(len(nums))}
     indices = []
 
