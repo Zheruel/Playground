@@ -24,3 +24,9 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/1716892/py
 Hash map, Time complexity: O(n), Space complexity: O(n)
 
 https://leetcode.com/problems/valid-anagram/discuss/1716986/python-3-hash-map-solution
+
+5. Valid Parentheses -> https://leetcode.com/problems/valid-parentheses/
+
+Hash map (stack), Time complexity: O(n), Space complexity: O(n)
+
+https://leetcode.com/problems/valid-parentheses/discuss/1719873/python3-solution-using-hash-map-and-stack
