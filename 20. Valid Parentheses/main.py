@@ -1,5 +1,3 @@
-
-
 def isValid(s: str) -> bool:
     stack = []
     identifier_dict = {")": "(", "]": "[", "}": "{"}
