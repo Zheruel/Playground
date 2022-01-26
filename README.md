@@ -24,3 +24,7 @@ Hash map (stack), Time complexity: O(n), Space complexity: O(n)
 6. Product of Array Except Self -> https://leetcode.com/problems/product-of-array-except-self/
 
 Just 2 for loops, Time complexity: O(n), Space complexity: O(1) because you are allowed to ignore the output array in space complexity analysis
+
+7.  Maximum Subarray -> https://leetcode.com/problems/maximum-subarray/
+
+Kadane's algorithm. Time complexity: O(n), Space complexity: O(1)
