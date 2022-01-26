@@ -28,3 +28,8 @@ Just 2 for loops, Time complexity: O(n), Space complexity: O(1) because you are 
 7.  Maximum Subarray -> https://leetcode.com/problems/maximum-subarray/
 
 Kadane's algorithm. Time complexity: O(n), Space complexity: O(1)
+
+8. 3Sum -> https://leetcode.com/problems/3sum
+
+Sort array, if element not first skip if element is equal to the first element. Do the same for the left pointer when hitting a match.
+Time Complexity: O(n^2), Space complexity O(1) but could be O(n) depending of the sort implementation
