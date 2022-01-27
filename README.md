@@ -33,3 +33,7 @@ Kadane's algorithm. Time complexity: O(n), Space complexity: O(1)
 
 Sort array, if element not first skip if element is equal to the first element. Do the same for the left pointer when hitting a match.
 Time Complexity: O(n^2), Space complexity O(1) but could be O(n) depending of the sort implementation
+
+9. Merge Intervals -> https://leetcode.com/problems/merge-intervals/
+
+Sort array of arrays by first element. Time complexity: O(nlog(n)), Space complexity: O(1) or O(n) depending on the sort implementation.
