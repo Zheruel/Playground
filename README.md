@@ -37,3 +37,7 @@ Time Complexity: O(n^2), Space complexity O(1) but could be O(n) depending of th
 9. Merge Intervals -> https://leetcode.com/problems/merge-intervals/
 
 Sort array of arrays by first element. Time complexity: O(nlog(n)), Space complexity: O(1) or O(n) depending on the sort implementation.
+
+10. Group Anagrams -> https://leetcode.com/problems/group-anagrams
+
+Use ord to count num of letters in string. Use tuple of string_count as a key for a hash map. Time complexity: O(m*n), Space complexity: O(m*n)
