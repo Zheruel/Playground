@@ -41,3 +41,11 @@ Sort array of arrays by first element. Time complexity: O(nlog(n)), Space comple
 10. Group Anagrams -> https://leetcode.com/problems/group-anagrams
 
 Use ord to count num of letters in string. Use tuple of string_count as a key for a hash map. Time complexity: O(mn), Space complexity: O(mn)
+
+11. Maximum Product Subarray -> https://leetcode.com/problems/maximum-product-subarray/
+
+Use stored max and min to calculate true max value. Time complexity: O(n), Space complexity: O(1)
+
+12. Search in Rotated Sorted Array -> https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+Binary search while also checking which range the mid belongs to. Time complexity: O(log(n)), Space complexity: O(1)
